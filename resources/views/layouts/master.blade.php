@@ -46,11 +46,11 @@
                      </div>
                      <div class="info-inner">
                         <span class="icontop"><i class="fa fa-envelope" aria-hidden="true"></i></span>
-                        <span class="iconcont"><a data-scroll href="mailto:info@yoursite.com">info@Lifecare.com</a></span>	
+                        <span class="iconcont"><a data-scroll href="mailto:info@yoursite.com">Life_animal.com</a></span>	
                      </div>
                      <div class="info-inner">
                         <span class="icontop"><i class="fa fa-clock-o" aria-hidden="true"></i></span>
-                        <span class="iconcont"><a data-scroll href="#">Daily: 7:00am - 8:00pm</a></span>	
+                        <span class="iconcont"><a data-scroll href="#">Daily: 8:00am - 16:00pm</a></span>	
                      </div>
                   </div>
                </div>

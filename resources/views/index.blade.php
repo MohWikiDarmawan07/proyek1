@@ -26,8 +26,8 @@
                <div class="row">
                   <div class="service-time one" style="background:#2895f1;">
                      <span class="info-icon"><i class="fa fa-ambulance" aria-hidden="true"></i></span>
-                     <h3>Emergency Case</h3>
-                     <p>Dignissimos ducimus qui blanditii sentium volta tum deleniti atque cori as quos dolores et quas mole.</p>
+                     <h3>Emergency </h3>
+                     <p>Penanganan Keadaan Darurat yang Diperlukan Untuk Hewan.</p>
                   </div>
                </div>
             </div>
@@ -35,12 +35,13 @@
                <div class="row">
                   <div class="service-time middle" style="background:#0071d1;">
                      <span class="info-icon"><i class="fa fa-clock-o" aria-hidden="true"></i></span> 
-                     <h3>Working Hours</h3>
+                     <h3>Jam kerja</h3>
                      <div class="time-table-section">
                         <ul>
-                           <li><span class="left">Monday - Friday</span><span class="right">8.00 – 18.00</span></li>
-                           <li><span class="left">Saturday</span><span class="right">8.00 – 16.00</span></li>
-                           <li><span class="left">Sunday</span><span class="right">8.00 – 13.00</span></li>
+                           <li><span class="left">Senin - kamis</span><span class="right">8.00 – 18.00</span></li>
+                           <li><span class="left">Jumat</span><span class="right">13.00 – 18.00</span></li>
+                           <li><span class="left">Sabtu</span><span class="right">8.00 – 16.00</span></li>
+                           <li><span class="left">Minggu</span><span class="right">8.00 – 13.00</span></li>
                         </ul>
                      </div>
                   </div>
@@ -50,8 +51,8 @@
                <div class="row">
                   <div class="service-time three" style="background:#0060b1;">
                      <span class="info-icon"><i class="fa fa-hospital-o" aria-hidden="true"></i></span>
-                     <h3>Clinic Timetable</h3>
-                     <p>Dignissimos ducimus qui blanditii sentium volta tum deleniti atque cori as quos dolores et quas mole.</p>
+                     <h3>Clinic House</h3>
+                     <p>kenyamanan Tempat untuk Perawatan Hewan.</p>
                   </div>
                </div>
             </div>
@@ -67,11 +68,10 @@
             <div class="row">
                <div class="col-md-6">
                   <div class="message-box">
-                     <h4>What We Do</h4>
-                     <h2>Clinic Service</h2>
-                     <p class="lead">Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus. Sed a tellus quis mi rhoncus dignissim.</p>
-                     <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  </p>
-                     <a href="#services" data-scroll class="btn btn-light btn-radius btn-brd grd1 effect-1">Learn More</a>
+                     <h4>Apa yang kami Lakukan?</h4>
+                     <h2>Dokter Hewan</h2>
+                     <p class="lead">Dokter hewan bertugas mencegah, memeriksa, mengobati, dan melakukan perawatan pada hewan dari penyakit. Jenis hewan yang ditangani bisa hewan besar (sapi, kuda, kambing, kerbau, babi), hewan kecil (anjing, kucing), unggas (ayam, itik, angsa, puyuh), hewan eksotik (ular, hamster, kura-kura, iguana), satwa liar (reptil, primata), satwa harapan (rusa, kelinci), satwa akuatik (ikan), ataupun hewan laboratorium (rodensia). Kalau ada hewan yang terluka, mengalami patah tulang, maka dokter hewan akan melakukan operasi.</p>
+                     
                   </div>
                   <!-- end messagebox -->
                </div>
@@ -79,7 +79,7 @@
                <div class="col-md-6">
                   <div class="post-media wow fadeIn">
                      <img src="assets/images/about_03.jpg" alt="" class="img-responsive">
-                     <a href="http://www.youtube.com/watch?v=nrJtHemSPW4" data-rel="prettyPhoto[gal]" class="playbutton"><i class="flaticon-play-button"></i></a>
+                     
                   </div>
                   <!-- end media -->
                </div>
@@ -94,7 +94,7 @@
                         <a href="images/clinic_01.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
                         <img src="assets/images/clinic_01.jpg" alt="" class="img-responsive">
                      </div>
-                     <h3>Digital Control Center</h3>
+                     <h3>Pemeriksaan cepat</h3>
                   </div>
                   <!-- end service -->
                </div>
@@ -104,7 +104,7 @@
                         <a href="assets/images/clinic_02.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
                         <img src="assets/images/clinic_02.jpg" alt="" class="img-responsive">
                      </div>
-                     <h3>Hygienic Operating Room</h3>
+                     <h3>Ruang Operasi yg aman dan bersih</h3>
                   </div>
                   <!-- end service -->
                </div>
@@ -114,17 +114,17 @@
                         <a href="assets/images/clinic_03.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
                         <img src="assets/images/clinic_03.jpg" alt="" class="img-responsive">
                      </div>
-                     <h3>Specialist Physicians</h3>
+                     <h3>Specialist Kehamilan Hewan</h3>
                   </div>
                   <!-- end service -->
                </div>
                <div class="col-md-3 col-sm-6 col-xs-12">
                   <div class="service-widget">
                      <div class="post-media wow fadeIn">
-                        <a href="assets/images/clinic_01.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="assets/images/clinic_01.jpg" alt="" class="img-responsive">
+                        <a href="assets/images/clinic_04.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="assets/images/clinic_04.jpg" alt="" class="img-responsive">
                      </div>
-                     <h3>Digital Control Center</h3>
+                     <h3>Bedah Hewan</h3>
                   </div>
                   <!-- end service -->
                </div>
@@ -142,42 +142,42 @@
                         <div class="serv">
                            <span class="icon-service"><img src="assets/images/service-icon1.png" alt="#" /></span>
                            <h4>PREMIUM FACILITIES</h4>
-                           <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                           <p>Fasilitas Pada Laboratorium Lengkap.</p>
                         </div>
                      </div>
                      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <div class="serv">
                            <span class="icon-service"><img src="assets/images/service-icon2.png" alt="#" /></span>
                            <h4>LARGE LABORATORY</h4>
-                           <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                           <p>Laboratorium cukup luas bisa menanggung hewan kecil maupun besar.</p>
                         </div>
                      </div>
                      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <div class="serv">
                            <span class="icon-service"><img src="assets/images/service-icon3.png" alt="#" /></span>
                            <h4>DETAILED SPECIALIST</h4>
-                           <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                           <p>specialist yg detail terhadap pekerjaan apa, serta bersertifikat.</p>
                         </div>
                      </div>
                      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <div class="serv">
                            <span class="icon-service"><img src="assets/images/service-icon4.png" alt="#" /></span>
-                           <h4>CHILDREN CARE CENTER</h4>
-                           <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                           <h4>Animal CARE CENTER</h4>
+                           <p>Tempat penitipan hewan yg cukup bila hewan dirawat inap.</p>
                         </div>
                      </div>
                      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <div class="serv">
                            <span class="icon-service"><img src="assets/images/service-icon5.png" alt="#" /></span>
                            <h4>FINE INFRASTRUCTURE</h4>
-                           <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                           <p>obat yg cukup lengkap pada perawatan beberapa hewan</p>
                         </div>
                      </div>
                      <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                         <div class="serv">
                            <span class="icon-service"><img src="assets/images/service-icon6.png" alt="#" /></span>
                            <h4>ANYTIME BLOOD BANK</h4>
-                           <p>Lorem Ipsum is simply dummy text of the printing.</p>
+                           <p>penyimpanan darah cukup banyak sehingga bisa digunakan kapan saja</p>
                         </div>
                      </div>
                   </div>
@@ -276,12 +276,7 @@
                         <!-- end title -->
                         <p>Hello guys, I am Soren from Sirbistana. I am senior art director and founder of Violetta.</p>
 
-                        <div class="footer-social">
-                            <a href="#" class="btn grd1"><i class="fa fa-facebook"></i></a>
-                            <a href="#" class="btn grd1"><i class="fa fa-github"></i></a>
-                            <a href="#" class="btn grd1"><i class="fa fa-twitter"></i></a>
-                            <a href="#" class="btn grd1"><i class="fa fa-linkedin"></i></a>
-                        </div>
+                        
                     </div><!--widget -->
                 </div><!-- end col -->
 
@@ -295,12 +290,6 @@
                         <!-- end title -->
                         <p>Hello guys, I am Soren from Sirbistana. I am senior art director and founder of Violetta.</p>
 
-                        <div class="footer-social">
-                            <a href="#" class="btn grd1"><i class="fa fa-facebook"></i></a>
-                            <a href="#" class="btn grd1"><i class="fa fa-github"></i></a>
-                            <a href="#" class="btn grd1"><i class="fa fa-twitter"></i></a>
-                            <a href="#" class="btn grd1"><i class="fa fa-linkedin"></i></a>
-                        </div>
                     </div><!--widget -->
                 </div><!-- end col -->
 
@@ -314,12 +303,7 @@
                         <!-- end title -->
                         <p>Hello guys, I am Soren from Sirbistana. I am senior art director and founder of Violetta.</p>
 
-                        <div class="footer-social">
-                            <a href="#" class="btn grd1"><i class="fa fa-facebook"></i></a>
-                            <a href="#" class="btn grd1"><i class="fa fa-github"></i></a>
-                            <a href="#" class="btn grd1"><i class="fa fa-twitter"></i></a>
-                            <a href="#" class="btn grd1"><i class="fa fa-linkedin"></i></a>
-                        </div>
+                        
                     </div><!--widget -->
                 </div><!-- end col -->
 
@@ -327,129 +311,7 @@
         </div><!-- end container -->
     </div>
 	  
-	  <div id="price" class="section pr wow fadeIn" style="background-image:url('assets/images/price-bg.png');">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-12">
-                  <div class="tab-content">
-                     <div class="tab-pane active fade in" id="tab1">
-                        <div class="row text-center">
-                           <div class="col-md-4">
-                              <div class="pricing-table">
-                                 <div class="pricing-table-header">
-                                    <h2>Shared Hosting</h2>
-                                    <h3>$85/month</h3>
-                                 </div>
-                                 <div class="pricing-table-features">
-                                    <p><i class="fa fa-envelope-o"></i> <strong>250</strong> Email Addresses</p>
-                                    <p><i class="fa fa-rocket"></i> <strong>125GB</strong> of Storage</p>
-                                    <p><i class="fa fa-database"></i> <strong>140</strong> Databases</p>
-                                    <p><i class="fa fa-link"></i> <strong>60</strong> Domains</p>
-                                    <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> Support</p>
-                                 </div>
-                                 <div class="pricing-table-sign-up">
-                                    <a href="#contact" data-scroll="" class="btn btn-dark btn-radius btn-brd">Order Now</a>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="col-md-4">
-                              <div class="pricing-table pricing-table-highlighted">
-                                 <div class="pricing-table-header grd1">
-                                    <h2>WordPress Hosting</h2>
-                                    <h3>$59/year</h3>
-                                 </div>
-                                 <div class="pricing-table-space"></div>
-                                 <div class="pricing-table-text">
-                                    <p>This is a perfect choice for small businesses and startups.</p>
-                                 </div>
-                                 <div class="pricing-table-features">
-                                    <p><i class="fa fa-envelope-o"></i> <strong>150</strong> Email Addresses</p>
-                                    <p><i class="fa fa-rocket"></i> <strong>65GB</strong> of Storage</p>
-                                    <p><i class="fa fa-database"></i> <strong>60</strong> Databases</p>
-                                    <p><i class="fa fa-link"></i> <strong>30</strong> Domains</p>
-                                    <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> Support</p>
-                                 </div>
-                                 <div class="pricing-table-sign-up">
-                                    <a href="#contact" data-scroll="" class="btn btn-light btn-radius btn-brd grd1 effect-1">Order Now</a>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="col-md-4">
-                              <div class="pricing-table">
-                                 <div class="pricing-table-header">
-                                    <h2>Reseller Hosting</h2>
-                                    <h3>$85/one-time</h3>
-                                 </div>
-                                 <div class="pricing-table-features">
-                                    <p><i class="fa fa-envelope-o"></i> <strong>250</strong> Email Addresses</p>
-                                    <p><i class="fa fa-rocket"></i> <strong>125GB</strong> of Storage</p>
-                                    <p><i class="fa fa-database"></i> <strong>140</strong> Databases</p>
-                                    <p><i class="fa fa-link"></i> <strong>60</strong> Domains</p>
-                                    <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> Support</p>
-                                 </div>
-                                 <div class="pricing-table-sign-up">
-                                    <a href="#contact" data-scroll="" class="btn btn-dark btn-radius btn-brd">Order Now</a>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <!-- end row -->
-                     </div>
-                     <!-- end pane -->
-                     <div class="tab-pane fade" id="tab2">
-                        <div class="row text-center">
-                           <div class="col-md-6">
-                              <div class="pricing-table">
-                                 <div class="pricing-table-header">
-                                    <h2>Dedicated Server</h2>
-                                    <h3>$85/month</h3>
-                                 </div>
-                                 <div class="pricing-table-space"></div>
-                                 <div class="pricing-table-features">
-                                    <p><i class="fa fa-envelope-o"></i> <strong>250</strong> Email Addresses</p>
-                                    <p><i class="fa fa-rocket"></i> <strong>125GB</strong> of Storage</p>
-                                    <p><i class="fa fa-database"></i> <strong>140</strong> Databases</p>
-                                    <p><i class="fa fa-link"></i> <strong>60</strong> Domains</p>
-                                    <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> Support</p>
-                                 </div>
-                                 <div class="pricing-table-sign-up">
-                                    <a href="#contact" data-scroll="" class="btn btn-dark btn-radius btn-brd">Order Now</a>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="col-md-6">
-                              <div class="pricing-table pricing-table-highlighted">
-                                 <div class="pricing-table-header grd1">
-                                    <h2>VPS Server</h2>
-                                    <h3>$59/month</h3>
-                                 </div>
-                                 <div class="pricing-table-space"></div>
-                                 <div class="pricing-table-text">
-                                    <p>This is a perfect choice for small businesses and startups.</p>
-                                 </div>
-                                 <div class="pricing-table-features">
-                                    <p><i class="fa fa-envelope-o"></i> <strong>150</strong> Email Addresses</p>
-                                    <p><i class="fa fa-rocket"></i> <strong>65GB</strong> of Storage</p>
-                                    <p><i class="fa fa-database"></i> <strong>60</strong> Databases</p>
-                                    <p><i class="fa fa-link"></i> <strong>30</strong> Domains</p>
-                                    <p><i class="fa fa-life-ring"></i> <strong>24/7 Unlimited</strong> Support</p>
-                                 </div>
-                                 <div class="pricing-table-sign-up">
-                                    <a href="#contact" data-scroll="" class="btn btn-light btn-radius btn-brd grd1 effect-1">Order Now</a>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <!-- end row -->
-                     </div>
-                     <!-- end pane -->
-                  </div>
-                  <!-- end content -->
-               </div>
-               <!-- end col -->
-            </div>
-         </div>
-      </div>
+	  
 	  
 	  <!-- end doctor section -->
 	  
