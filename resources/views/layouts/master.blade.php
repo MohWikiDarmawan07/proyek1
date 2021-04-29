@@ -69,9 +69,9 @@
                         <li><a class="active" href="/">Home</a></li>
                         <li><a data-scroll href="/about">About us</a></li>
                         <li><a data-scroll href="/service">Services</a></li>
-                        <li><a data-scroll href="/doctors">Doctors</a></li>
+                        <li><a  href="/doctor">Doctor</a></li>
                         <li><a data-scroll href="/price">Price</a></li>
-						<li><a data-scroll href="/testimonials">Testimonials</a></li>
+						<li><a href="/testimonials">Testimonials</a></li>
                         <li><a data-scroll href="/getintouch">Contact</a></li>
                      </ul>
                   </div>
