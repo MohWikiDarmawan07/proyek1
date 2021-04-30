@@ -14,7 +14,7 @@
                     <div class="widget clearfix">
                         <img src="assets/images/doctor_01.jpg" alt="" class="img-responsive img-rounded">
                         <div class="widget-title">
-                            <h3>Soren Bo Bostian</h3>
+                            <h3>---</h3>
                             <small>Clinic Owner</small>
                         </div>
                         <!-- end title -->
@@ -28,7 +28,7 @@
                     <div class="widget clearfix">
                         <img src="assets/images/doctor_02.jpg" alt="" class="img-responsive img-rounded">
                         <div class="widget-title">
-                            <h3>Bryan Saftler</h3>
+                            <h3>---</h3>
                             <small>Internal Diseases</small>
                         </div>
                         <!-- end title -->
@@ -41,7 +41,7 @@
                     <div class="widget clearfix">
                         <img src="assets/images/doctor_03.jpg" alt="" class="img-responsive img-rounded">
                         <div class="widget-title">
-                            <h3>Matthew Bayliss</h3>
+                            <h3>----</h3>
                             <small>Orthopedics Expert</small>
                         </div>
                         <!-- end title -->
