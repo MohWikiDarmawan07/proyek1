@@ -24,6 +24,7 @@ Route::get('/', function () {
 //     return view('layouts.book');
 
 // });
+Route::get('/harga', [IndexController::class, 'harga']);
 Route::get('/service', [IndexController::class, 'service']);
 Route::get('/doctor', [IndexController::class, 'doctor']);
 Route::get('/Bookingsucces', [IndexController::class, 'Bookingsuccess']);

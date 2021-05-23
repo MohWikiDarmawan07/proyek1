@@ -25,5 +25,8 @@ class IndexController extends Controller
     public function contact() {
         return view('contact');
     }
+    public function harga() {
+        return view('harga');
+    }
     //public function 
 }

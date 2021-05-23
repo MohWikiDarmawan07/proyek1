@@ -71,7 +71,7 @@
                      <li><a href="/booking">BOOKING</a></li>
                      <li><a data-scroll href="/service">Service</a></li>
                      <li><a href="/doctor">Doctor</a></li>
-                     <li><a data-scroll href="/price">Harga</a></li>
+                     <li><a data-scroll href="/harga">Harga</a></li>
                      <li><a href="/testimonials">Testimoni</a></li>
                      <li><a href="/contact">Contact</a></li>
                      <li><a data-scroll href="/getintouch">Help</a></li>

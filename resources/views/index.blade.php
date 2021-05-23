@@ -22,7 +22,7 @@
       <!-- end section -->
       <div id="time-table" class="time-table-section">
          <div class="container">
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+            <!-- <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                <div class="row">
                   <div class="service-time one" style="background:#2895f1;">
                      <span class="info-icon"><i class="fa fa-ambulance" aria-hidden="true"></i></span>
@@ -30,7 +30,7 @@
                      <p>Penanganan Keadaan Darurat yang Diperlukan Untuk Hewan.</p>
                   </div>
                </div>
-            </div>
+            </div> -->
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                <div class="row">
                   <div class="service-time middle" style="background:#0071d1;">
@@ -47,7 +47,7 @@
                   </div>
                </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+            <!-- <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                <div class="row">
                   <div class="service-time three" style="background:#0060b1;">
                      <span class="info-icon"><i class="fa fa-hospital-o" aria-hidden="true"></i></span>
@@ -55,7 +55,7 @@
                      <p>kenyamanan Tempat untuk Perawatan Hewan.</p>
                   </div>
                </div>
-            </div>
+            </div> -->
          </div>
       </div>
       <div id="about" class="section wow fadeIn">
