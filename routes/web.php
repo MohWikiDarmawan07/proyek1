@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 use App\http\Controllers\HomeController;
+use App\Http\Controllers\IndexController;
+use Illuminate\Support\Facades\Auth;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,5 +20,24 @@ Route::get('/', function () {
     return view('index');
 
 });
-Route::get('/testimonials', [HomeController::class, 'testimonial']);
-Route::get('/doctor', [HomeController::class, 'doctor']);
+// Route::get('/aboutus', function () {
+//     return view('layouts.book');
+
+// });
+Route::get('/service', [IndexController::class, 'service']);
+Route::get('/doctor', [IndexController::class, 'doctor']);
+Route::get('/Bookingsucces', [IndexController::class, 'Bookingsuccess']);
+Route::get('/booking', [IndexController::class, 'book']);
+Route::get('/contact', [IndexController::class, 'contact']);
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
