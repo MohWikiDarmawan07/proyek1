@@ -75,6 +75,7 @@
                      <li><a href="/testimonials">Testimoni</a></li>
                      <li><a href="/contact">Contact</a></li>
                      <li><a data-scroll href="/getintouch">Help</a></li>
+                     <li><a data-scroll href="/logout">Logout</a></li>
                   </ul>
                </div>
             </nav>
