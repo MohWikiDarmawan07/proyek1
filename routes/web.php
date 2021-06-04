@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\http\Controllers\HomeController;
 use App\Http\Controllers\IndexController;
+use App\Http\Controllers\MainController;
 use Illuminate\Support\Facades\Auth;
 
 /*
@@ -15,7 +16,7 @@ use Illuminate\Support\Facades\Auth;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+Route::resource('crud',MainController::class);
 Route::get('/', function () {
     return view('index');
 

@@ -20,7 +20,7 @@ class IndexController extends Controller
         return view('Bookingsucces');
     }
     public function book() {
-        return view('layouts.book');
+        return view('layouts.create');
     }
     public function contact() {
         return view('contact');
